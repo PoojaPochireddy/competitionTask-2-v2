@@ -1,0 +1,16 @@
+  {
+    "User": {
+      "username": "pujapochireddy@gmail.com",
+      "password": "Chaitu$123"
+    },
+    "Education": [
+      {
+        "CollegeUniversityName": "NIIT",
+        "country": "India",
+        "title": "B.S.c",
+        "updateTitle": "B.COM",
+        "Degree": "GRAD",
+        "yearOfGraduation": 2009
+      }
+    ]
+  }

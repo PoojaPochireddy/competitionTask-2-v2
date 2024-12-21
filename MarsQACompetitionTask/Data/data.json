@@ -1,0 +1,47 @@
+﻿{
+  "User": {
+    "username": "pujapochireddy@gmail.com",
+    "password": "Chaitu$123"
+  },
+  "Education": [
+    {
+      "CollegeUniversityName": "NIIT",
+      "country": "India",
+      "title": "B.S.c",
+      "updateTitle": "B.COM",
+      "Degree": "GRAD",
+      "yearOfGraduation": 2009
+    },
+    {
+      "CollegeUniversityName": "IIT",
+      "country": "India",
+      "title": "B.Tech",
+      "Degree": "GRAD",
+      "yearOfGraduation": 2010
+    },
+    {
+      "CollegeUniversityName": "VIT",
+      "country": "India",
+      "title": "B.Tech",
+      "Degree": "GRAD",
+      "yearOfGraduation": 2011
+    }
+  ],
+    "Certification":[
+      {
+        "CertificationName": "CSM",
+        "UpdateCertName": "AWS",
+        "CertifiedFrom": "SCM",
+        "CyrDropdown": "2009"
+
+
+      },
+      {
+        "CertificationName": "Microsoft",
+        "CertifiedFrom": "Microsoft Limited",
+        "CyrDropdown": "2019"
+
+
+      }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+"Sign In": [
+  {
+    "email": "pujapochireddy@gmail.com"
+    "password":"Chaitu$123"
+  },
+  "Education": [
+    {
+      "College/University Name": "Merits",
+      "country": "UK",
+      "title": "B.Tech",
+      "degree": "Graduate"
+      "yearOfGraduation" =2009
+    },
+    "Certifications" :[
+       {
+         "certificationName": "CSM",
+         "certificationFrom": "ITB",
+         "certificationYear":  2020,    
+        }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "User": {
+    "username": "pujapochireddy@gmail.com",
+    "password": "Chaitu$123"
+  },
+  "Education": [
+    {
+      "CollegeUniversityName": "IIT",
+      "country": "India",
+      "title": "B.Tech",
+      "Degree": "GRAD",
+      "yearOfGraduation": 2010
+    }
+  ]
+}

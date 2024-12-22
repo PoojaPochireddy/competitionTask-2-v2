@@ -1,0 +1,23 @@
+{
+  "User": {
+    "username": "pujapochireddy@gmail.com",
+    "password": "Chaitu$123"
+  },
+  "Certification": [
+    {
+      "CertificationName": "CSM131",
+      "UpdateCertName": "AWS",
+      "CertifiedFrom": "SCM",
+      "CyrDropdown": "2009"
+
+
+    },
+    {
+      "CertificationName": "Microsoft",
+      "CertifiedFrom": "Microsoft Limited",
+      "CyrDropdown": "2019"
+
+
+    }
+  ]
+}
